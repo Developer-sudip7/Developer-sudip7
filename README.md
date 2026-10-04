@@ -1,6 +1,6 @@
 # Hi, I'm Sudip 👋
 
-### Computer Science Student | Web Developer | Cyber Security Enthusiast
+### Computer Science Student | Web Developer | AI & ML Enthusiast
 
 I'm a Computer Science student interested in building practical software projects
 and exploring Web Development, Cyber Security, and modern technologies.
